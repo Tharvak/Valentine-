@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.goback{
+    width: 10%;
+    height: 30px;
+    background-color: rgb(233, 158, 218);
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solid ;
+    border-color: rgb(182, 104, 163);
+    border-radius: 20px;
+}
+
+#go{
+    text-decoration: none;
+}
+
+img{
+    width: 300px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

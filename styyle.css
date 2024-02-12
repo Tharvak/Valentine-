@@ -1,0 +1,60 @@
+body{
+    background-color: #f0b4e6;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 10%;
+    height: 30px;
+    background-color: rgb(233, 158, 218);
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solid ;
+    border-color: rgb(182, 104, 163);
+    border-radius: 20px;
+}
+
+.box1{
+    width: 10%;
+    height: 30px;
+    background-color: rgb(233, 158, 218);
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solid ;
+    border-color: rgb(182, 104, 163);
+    border-radius: 20px;
+}
+
+#no{
+    text-decoration: none;
+}
+
+#yes{
+    text-decoration: none;
+}
+
+.gif{
+    margin-top:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
